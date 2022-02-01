@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @17Moons
 - 👀 I’m interested in web development, and machine learning.
-- 🌱 I’m currently learning front end development.
+- 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on small projects with high learning potential
 
 <!---
